@@ -1,2 +1,2 @@
-# Django_MVT
+# Django_MVC
  
